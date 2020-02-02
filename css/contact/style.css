@@ -1,0 +1,98 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    width: 100%;
+}
+.navbar {
+    border-bottom: 2px solid green;
+    background-image: linear-gradient(to right, #a5175a, #5f1782);
+}
+.navbar a{
+    color: #fff;
+    text-decoration: none;
+}
+.navbar-nav li{
+    padding: 0 10px;
+}
+.navbar-nav li a{
+    color: #fff !important;
+    font-weight: 600;
+    float: right;
+    text-align: left;
+}
+.fa-bars{
+    color: #fff;
+    font-size: 30px !important;
+}
+
+
+#contact-body{
+    width: 100%;
+}
+.contact-heading h1{
+    text-align: center;
+    padding-top: 100px;
+}
+form .form-group{
+    background: transparent;
+    font-size: 17px;
+    font-weight: 300;
+    margin-bottom: 10px;
+    box-shadow: 0;
+}
+.contact-left-body{
+    margin-top: 20px;
+}
+.email p{
+    font-size: 20px;
+}
+.contact-right-body{
+    margin-top: 20px;
+}
+.form-control{
+    box-shadow: none;
+}
+.form-label {
+    display: inline-block;
+    max-width: 100%;
+    margin-bottom: 5px;
+    font-weight: 700;
+}
+
+
+
+/*=====================================
+        footer section
+=======================================*/
+#contact{
+    width: 100%;
+    background-image:linear-gradient(to right, #a5175a, #5f1782);
+    color: #fff;
+}
+.footer-img{
+    width: 100%;
+}
+.contact-info h3{
+    font-size: 30px;
+    text-transform: uppercase;
+}
+.contact-right h3{
+    text-transform: capitalize;
+    font-size: 30px;
+}
+.contact-links a{
+    text-decoration: none;
+    color: #fff;
+}
+#footer-bottom{
+    padding: 50px, 0;
+    padding-bottom: 50px;
+    margin-top: 20px;
+}
+.footer-copyrights p{
+    text-align: center;
+    margin: 0;
+    padding-bottom: 5px;
+}
